@@ -1,2 +1,1 @@
-# Seaborn_viz
-Just for refernce
+Refernce for using Seaborn
