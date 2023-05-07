@@ -1,1 +1,1 @@
-Refernce for using Seaborn
+Reference for using Seaborn
